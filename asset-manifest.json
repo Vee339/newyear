@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/newyear/static/css/main.ddc26da7.css",
-    "main.js": "/newyear/static/js/main.9f4c9625.js",
-    "static/media/background.mp4": "/newyear/static/media/background.4219b678c1efb029eaa2.mp4",
+    "main.css": "/newyear/static/css/main.0b9b4ae6.css",
+    "main.js": "/newyear/static/js/main.1177fcdc.js",
+    "static/media/background.jpg": "/newyear/static/media/background.418af5aecb03ca9026db.jpg",
     "index.html": "/newyear/index.html",
-    "main.ddc26da7.css.map": "/newyear/static/css/main.ddc26da7.css.map",
-    "main.9f4c9625.js.map": "/newyear/static/js/main.9f4c9625.js.map"
+    "main.0b9b4ae6.css.map": "/newyear/static/css/main.0b9b4ae6.css.map",
+    "main.1177fcdc.js.map": "/newyear/static/js/main.1177fcdc.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddc26da7.css",
-    "static/js/main.9f4c9625.js"
+    "static/css/main.0b9b4ae6.css",
+    "static/js/main.1177fcdc.js"
   ]
 }
