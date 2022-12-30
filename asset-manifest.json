@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/newyear/static/css/main.ddc26da7.css",
+    "main.js": "/newyear/static/js/main.5dbc8e1b.js",
+    "static/media/background.mp4": "/newyear/static/media/background.4219b678c1efb029eaa2.mp4",
+    "index.html": "/newyear/index.html",
+    "main.ddc26da7.css.map": "/newyear/static/css/main.ddc26da7.css.map",
+    "main.5dbc8e1b.js.map": "/newyear/static/js/main.5dbc8e1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc26da7.css",
+    "static/js/main.5dbc8e1b.js"
+  ]
+}
