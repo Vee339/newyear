@@ -1,16 +1,20 @@
 import React from 'react'
 import './style.css'
-import Video from './videos/background.mp4'
 import Content from './Components/Content'
+import Background from './images/background.jpg'
 
 function App(){
+
+    const styles = {
+        backgroundImage: `url(${Background})`,
+        backgroundSize: "cover",
+        backgroundPosition: "center center"
+        
+    }
+
     return(
-        <main>
-            <video autoPlay muted loop id="my-video">
-                <source src={Video} type="video/mp4" />
-            </video>
+        <main style={styles}>
             <Content />
-            
         </main>
     )
 }
