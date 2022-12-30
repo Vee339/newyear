@@ -57,19 +57,19 @@ function Content(){
             <div className="timer">
                 <div className='item'>
                     <div className="time days">{countdown.absDaysLeft > 9 ? countdown.absDaysLeft : `0${countdown.absDaysLeft}`}</div>
-                    <span>Days</span>
+                    <span>{countdown.absDaysLeft > 1 ? "Days" : "Day"}</span>
                 </div>
                 <div className='item'>
                     <div className="time hours">{countdown.absHoursLeft > 9 ? countdown.absHoursLeft : `0${countdown.absHoursLeft}`}</div>
-                    <span>Hours</span>
+                    <span>{countdown.absHoursLeft > 1 ? "Hours" : "Hour"}</span>
                 </div>
                 <div className='item'>
                     <div className="time minutes">{countdown.absMinsLeft > 9 ? countdown.absMinsLeft : `0${countdown.absMinsLeft}`}</div>
-                    <span>Minutes</span>
+                    <span>{countdown.absMinsLeft > 1 ? "Minutes" : "Minute"}</span>
                 </div>
                 <div className='item'>
                     <div className="time seconds">{countdown.absSecondsLeft > 9 ? countdown.absSecondsLeft : `0${countdown.absSecondsLeft}`}</div>
-                    <span>Seconds</span>
+                    <span>{countdown.absSecondsLeft > 1 ? "Seconds" : "Second"}</span>
                 </div>
             </div>
         </div>
