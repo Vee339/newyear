@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/newyear/static/css/main.0b9b4ae6.css",
-    "main.js": "/newyear/static/js/main.1177fcdc.js",
+    "main.js": "/newyear/static/js/main.134940b5.js",
     "static/media/background.jpg": "/newyear/static/media/background.418af5aecb03ca9026db.jpg",
     "index.html": "/newyear/index.html",
     "main.0b9b4ae6.css.map": "/newyear/static/css/main.0b9b4ae6.css.map",
-    "main.1177fcdc.js.map": "/newyear/static/js/main.1177fcdc.js.map"
+    "main.134940b5.js.map": "/newyear/static/js/main.134940b5.js.map"
   },
   "entrypoints": [
     "static/css/main.0b9b4ae6.css",
-    "static/js/main.1177fcdc.js"
+    "static/js/main.134940b5.js"
   ]
 }
