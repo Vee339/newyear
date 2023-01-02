@@ -1,6 +1,6 @@
 import React from 'react'
 
-var newYear = new Date('January 1, 2023')
+var newYear = new Date('January 1, 2024')
 
 const getTimeDelta = ()=>{
     var now = new Date();
@@ -53,7 +53,7 @@ function Content(){
         <div id="content">
             
             <p>Countdown to the New Year</p>
-            <h1>2023</h1>
+            <h1>2024</h1>
             <div className="timer">
                 <div className='item'>
                     <div className="time days">{countdown.absDaysLeft > 9 ? countdown.absDaysLeft : `0${countdown.absDaysLeft}`}</div>
